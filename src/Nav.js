@@ -4,12 +4,16 @@ import './App.css';
 
 
 function Nav() {
+    // Javascript
+    const button_1 = "Khaly";
+
+
   return (
     <div className="button">
              
             
+            
             <h1 className="item1">Hello</h1>
-           
             
             <button className="name">
                 1
