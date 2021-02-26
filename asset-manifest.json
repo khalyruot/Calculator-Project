@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http/:khalyruot.github.io/Calculator-Project/static/css/main.50ccd682.chunk.css",
+    "main.js": "/http/:khalyruot.github.io/Calculator-Project/static/js/main.0d9bbfed.chunk.js",
+    "main.js.map": "/http/:khalyruot.github.io/Calculator-Project/static/js/main.0d9bbfed.chunk.js.map",
+    "runtime-main.js": "/http/:khalyruot.github.io/Calculator-Project/static/js/runtime-main.cee5e58f.js",
+    "runtime-main.js.map": "/http/:khalyruot.github.io/Calculator-Project/static/js/runtime-main.cee5e58f.js.map",
+    "static/js/2.e7a72a38.chunk.js": "/http/:khalyruot.github.io/Calculator-Project/static/js/2.e7a72a38.chunk.js",
+    "static/js/2.e7a72a38.chunk.js.map": "/http/:khalyruot.github.io/Calculator-Project/static/js/2.e7a72a38.chunk.js.map",
+    "static/js/3.82c87430.chunk.js": "/http/:khalyruot.github.io/Calculator-Project/static/js/3.82c87430.chunk.js",
+    "static/js/3.82c87430.chunk.js.map": "/http/:khalyruot.github.io/Calculator-Project/static/js/3.82c87430.chunk.js.map",
+    "index.html": "/http/:khalyruot.github.io/Calculator-Project/index.html",
+    "static/css/main.50ccd682.chunk.css.map": "/http/:khalyruot.github.io/Calculator-Project/static/css/main.50ccd682.chunk.css.map",
+    "static/js/2.e7a72a38.chunk.js.LICENSE.txt": "/http/:khalyruot.github.io/Calculator-Project/static/js/2.e7a72a38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cee5e58f.js",
+    "static/js/2.e7a72a38.chunk.js",
+    "static/css/main.50ccd682.chunk.css",
+    "static/js/main.0d9bbfed.chunk.js"
+  ]
+}
