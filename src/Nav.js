@@ -5,7 +5,7 @@ import './App.css';
 
 function Nav() {
     // Javascript
-    const button_12 = "Khaly";
+    const button = "Khaly";
 
 
   return (
