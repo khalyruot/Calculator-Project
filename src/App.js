@@ -5,12 +5,13 @@ import Nav from './Nav';
 
 
 function App() {
-    
+
   return (
+
     <div className="button">
       
       <Nav />
-      <button className="name">
+            <button className="name">
                 1
             </button>
             <button className="name">
@@ -50,7 +51,7 @@ function App() {
                 -
             </button>
             <button className="name">
-                /
+                / 
             </button>
             <button className="name">
                 c
