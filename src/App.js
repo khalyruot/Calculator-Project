@@ -5,12 +5,15 @@ import Nav from './Nav';
 
 
 function App() {
+  // Javascript
+  const name = "Allo";
+
 
   return (
 
     <div className="button">
       
-      <Nav />
+      <Nav me={name} />
             <button className="name">
                 1
             </button>

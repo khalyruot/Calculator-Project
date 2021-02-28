@@ -3,22 +3,20 @@ import './App.css';
 
 
 
-function Nav() {
-    // Javascript
-    const button = "Khaly";
+const Nav = (props) => (
+
+  <div className="button">
+    
+    <h1 className="item1">{props.me}</h1>
+          
+  </div>
+  
+);
+    
 
 
-  return (
-    <div className="button">
-             
-            
-            
-            <h1 className="item1">Hello</h1>
-            
-            
 
-        </div>
-  );
-}
+    
+
 
 export default Nav;
