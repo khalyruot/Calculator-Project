@@ -6,7 +6,7 @@ import Nav from './Nav';
 
 function App() {
   // Javascript
-  const name = "Allo";
+  const name = "Hola";
 
 
   return (
