@@ -57,7 +57,7 @@ function App() {
                 / 
             </button>
             <button className="name">
-                c
+                C
             </button>
             
     </div>
