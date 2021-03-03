@@ -9,11 +9,11 @@ function App() {
 
   const[isRed, setRed]= useState(false)
   const[count, setCount]= useState(0)
-  const name = "Hello";
+  
 
 
 function clickHandler1(){
-    setCount("1");
+    const name = "1";
 }
 function clickHandler2(){
     setCount("2");
