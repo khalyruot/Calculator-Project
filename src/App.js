@@ -9,11 +9,12 @@ function App() {
 
   const[isRed, setRed]= useState(false)
   const[count, setCount]= useState(0)
+  const name = "1";
   
 
 
 function clickHandler1(){
-    const name = "1";
+    setCount("1");
 }
 function clickHandler2(){
     setCount("2");
@@ -64,7 +65,7 @@ function clickHandler15(){
         <div className="button">
             
             
-            <h1 className="item1">{count}</h1>
+            <Nav me={name}/>
         
             
             <button onClick={clickHandler1} className="name">
