@@ -58,7 +58,7 @@ function clickHandler14(){
     setCount("/");
 }
 function clickHandler15(){  
-    setCount("c");
+    setCount("C");
 }
     return( 
         
@@ -111,7 +111,7 @@ function clickHandler15(){
                 /
             </button>
             <button onClick={clickHandler15} className="name">
-                c
+                C
             </button>
             
 
