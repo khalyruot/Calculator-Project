@@ -9,7 +9,7 @@ function App() {
 
   const[isRed, setRed]= useState(false)
   const[count, setCount]= useState(0)
-  const name = "1";
+  const name = "Hello World";
   
 
 
@@ -111,7 +111,7 @@ function clickHandler15(){
                 /
             </button>
             <button onClick={clickHandler15} className="name">
-                c
+                C
             </button>
             
 
