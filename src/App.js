@@ -67,7 +67,7 @@ function clickHandler15(){
             
             <Nav me={name}/>
             <Nav me={name}/>
-            
+            <Nav me={name}/>
         
             
             <button onClick={clickHandler1} className="name">
