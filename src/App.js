@@ -113,7 +113,7 @@ function clickHandler15(){
                 /
             </button>
             <button onClick={clickHandler15} className="name">
-                C
+                c
             </button>
             
 
